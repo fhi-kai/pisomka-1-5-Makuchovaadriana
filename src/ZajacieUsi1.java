@@ -14,6 +14,7 @@ public class ZajacieUsi1 implements ZajacieUsi{
     }
 
 /* len tak pre odskusanie
+
     public static void main(String[] args) {
         ZajacieUsi1 usi = new ZajacieUsi1();
         System.out.println(usi.zajacieUsi(5));
